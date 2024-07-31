@@ -1,0 +1,23 @@
+/*
+Theme Name: Basic Business
+Author: Prashant Deshmukh
+Description: Basic Business is a versatile and responsive WordPress theme, expertly crafted to cater to a diverse range of businesses including tech startups, financial consulting firms, health clinics, educational institutions, creative agencies, real estate companies, and retail stores. This modern theme comes equipped with advanced full-site editing capabilities, allowing users to effortlessly customize their site’s layout, color schemes, and branding elements to perfectly align with their business identity. Whether you operate a boutique, a consultancy, a law practice, or a restaurant, Basic Business provides a robust and adaptable foundation that combines sleek style with practical functionality. Its responsive design ensures that your website will deliver a seamless user experience on all devices, enhancing user engagement and establishing a professional online presence.
+Requires at least: 6.0
+Tested up to: 6.5.2
+Requires PHP: 7.4
+Version: 1.0.5
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: basic-business
+Tags: blog, two-columns, block-patterns, block-styles, custom-logo, custom-menu, custom-colors, custom-header, featured-images, full-site-editing, template-editing, wide-blocks, translation-ready 
+*/
+html {
+  scroll-behavior: smooth;
+}
+.hero-section {
+    margin-top: -48px !important;
+}
+
+.footer-text {
+    color: #939393 !important;
+}
